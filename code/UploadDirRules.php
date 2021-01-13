@@ -35,7 +35,7 @@
  * @author Anselm Christophersen <ac@title.dk>
  * @copyright Copyright (c) 2014, Title Web Solutions
  */
-class UploadDirRules extends Object {
+class UploadDirRules extends SS_Object {
 
 	//set true for testing
 	private static $dryrun = false;
